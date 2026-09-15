@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use CReFaDet, please cite this versioned dataset release and the relevant publication listed in the README."
+title: "CReFaDet: Customer Reviews for Failure Detection"
+type: dataset
+authors:
+  - given-names: Jean
+    family-names: Meunier-Pion
+    email: jean.meunier-pion@centralesupelec.fr
+    affiliation: CentraleSupélec
+    orcid: "https://orcid.org/0009-0008-1746-3032"
+  - given-names: Zhiguo
+    family-names: Zeng
+    affiliation: CentraleSupélec
+    orcid: "https://orcid.org/0000-0003-4937-4380"
+  - given-names: Anne
+    family-names: Barros
+    affiliation: CentraleSupélec
+    orcid: "https://orcid.org/0000-0002-3386-453X"
+abstract: "An annotated dataset of 2,415 Amazon customer reviews for detecting and characterizing failures in tablet computers."
+keywords:
+  - failure detection
+  - reliability engineering
+  - natural language processing
+  - customer reviews
+  - tablet computers
+license: CC-BY-NC-SA-4.0
+doi: "10.5281/zenodo.22015257"
+repository-code: "https://github.com/jmpion/CReFaDet"
+url: "https://doi.org/10.5281/zenodo.22015257"
+version: "1.0.0"
+date-released: "2026-09-15"
+preferred-citation:
+  type: conference-paper
+  title: "Big Data Analytics for Reputational Reliability Assessment Using Customer Review Data"
+  authors:
+    - given-names: Jean
+      family-names: Meunier-Pion
+    - given-names: Zhiguo
+      family-names: Zeng
+    - given-names: Jie
+      family-names: Liu
+  collection-title: "Proceedings of the 31st European Safety and Reliability Conference (ESREL 2021)"
+  publisher:
+    name: Research Publishing Services
+  year: 2021
+  pages: 2336-2343
+  doi: "10.3850/978-981-18-2016-8_434-cd"
+  url: "https://rpsonline.com.sg/proceedings/9789811820168/html/434.xml"
